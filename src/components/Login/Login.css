@@ -1,0 +1,100 @@
+.Login {
+    background-color: #0b7d81;
+    height: 670px;
+    display: grid;
+    justify-content: center;
+    border-radius: 0px 0px 70% 0px;
+}
+
+.Login-account {
+    height: 450px;
+    width: 350px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #0066ff;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+}
+
+.pass {
+    color: #000000;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.sign {
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    text-decoration: underline;
+    width: 70%;
+}
+
+.Home-Enter {
+    height: 40px;
+    width: 150px;
+    margin-left: 25%;
+    background-color: #0066ff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.home {
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
